@@ -1,1 +1,1 @@
-# written by me game on the principles of Othello game  in Java script
+# written by me game on the principles of Othello in Java script
